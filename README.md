@@ -1,4 +1,4 @@
-# practika14
+# vue-practice-app
 
 ## Project setup
 ```
